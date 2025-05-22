@@ -4,7 +4,7 @@ A simple Python project that adds a watermark to an image using OpenCV.
 
 ## Features
 
-- Adds a transparent watermark to the bottom-right corner of an image.
+- Adds a transparent watermark and normal logo to the center of an image.
 - Uses OpenCV for image processing.
 - Easy to run and customize.
 
@@ -41,8 +41,11 @@ pip install opencv-python
 <img src="logo.png" alt="Logo" width="300"/>
 <img src="leaves.jpg" alt="background" width="300"/>
 
-### Final Result
+### Final Result Image
 <img src="final.jpg" alt="Logo" width="400"/>
 
-### Wtaermarked
+### Watermarked Imge
 <img src="watermarked.jpg" alt="Logo" width="400"/>
+
+# 🙋‍♂️ Author
+Made with ❤️ by VyashuS`[VyashuS](https://github.com/VyashuS/)`
