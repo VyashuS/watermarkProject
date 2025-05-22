@@ -38,6 +38,7 @@ pip install opencv-python
 ## Example Output
 
 ### Original Image:
+<img src="logo.png" alt="Logo" width="200"/>
 
 ![original](leaves.jpg)
 ![original](logo.png)
