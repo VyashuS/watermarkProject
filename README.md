@@ -1,8 +1,8 @@
-# 🖼️ Watermark Project
+#  Watermark Project
 
 A simple Python project that adds a watermark to an image using OpenCV.
 
-## 📌 Features
+## Features
 
 - Adds a transparent watermark to the bottom-right corner of an image.
 - Uses OpenCV for image processing.
@@ -10,9 +10,9 @@ A simple Python project that adds a watermark to an image using OpenCV.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🧾 Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -31,3 +31,11 @@ cd watermarkProject
 
 # Install the dependencies
 pip install opencv-python
+
+
+## Example Output
+
+### Original Image:
+
+![original](leaves.jpg)
+![original](logo.png)
