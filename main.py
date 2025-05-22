@@ -69,6 +69,7 @@ leavescopy = leaves.copy()
 # now the final result
 leavescopy[tly:bry,tlx:brx] = result
 cv2.imshow('final reslut',leavescopy)
+cv2.imwrite('final.jpg',leavescopy)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
@@ -85,5 +86,6 @@ watermarked = cv2.addWeighted(roicopy,1,logo_clean,0.9,0)
 leavescopy1[tly:bry,tlx:brx] = watermarked
 
 cv2.imshow('watermarked image',leavescopy1)
+cv2.imwrite('watermarked.jpg',leavescopy1)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
