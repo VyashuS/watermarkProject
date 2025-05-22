@@ -48,4 +48,4 @@ pip install opencv-python
 <img src="watermarked.jpg" alt="Logo" width="400"/>
 
 # 🙋‍♂️ Author
-Made with ❤️ by VyashuS`[VyashuS](https://github.com/VyashuS/)`
+Made with ❤️ by [VyashuS](https://github.com/VyashuS/)
