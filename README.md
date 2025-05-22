@@ -1,4 +1,4 @@
-Watermark Project
+# Watermark Project
 A simple Python script to overlay a watermark on an image using OpenCV.
 
 Features
