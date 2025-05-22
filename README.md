@@ -31,6 +31,8 @@ cd watermarkProject
 
 # Install the dependencies
 pip install opencv-python
+```
+
 
 
 ## Example Output
