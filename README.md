@@ -38,7 +38,11 @@ pip install opencv-python
 ## Example Output
 
 ### Original Image:
-<img src="logo.png" alt="Logo" width="200"/>
+<img src="logo.png" alt="Logo" width="300"/>
+<img src="leaves.jpg" alt="background" width="300"/>
 
-![original](leaves.jpg)
-![original](logo.png)
+### Final Result
+<img src="final.jpg" alt="Logo" width="400"/>
+
+### Wtaermarked
+<img src="watermarked.jpg" alt="Logo" width="400"/>
